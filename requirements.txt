@@ -1,0 +1,4 @@
+pyspark>=3.0.0
+happybase>=1.2.0
+pandas>=1.0.0
+kafka-python>=2.0.0

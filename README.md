@@ -202,6 +202,7 @@ We welcome contributions to improve this project! Here’s how you can get invol
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+
 ---
 
 ## 🙏 Acknowledgements
@@ -215,7 +216,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Community:**  
   We appreciate all the contributors who have helped improve this project.
 
+-  *If you like the project please provide a star 🌟 * 
 ---
 
 *Happy coding and safe transactions! 🚀💳*
+
 
